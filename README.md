@@ -1,7 +1,5 @@
 # Raffle joiner
 
----
-
 ## Disclaimer
 
 I'm not responsible for any damage or loss when using this script.
