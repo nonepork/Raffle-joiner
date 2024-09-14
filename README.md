@@ -1,0 +1,1 @@
+# Auto scraptf raffle joiner
