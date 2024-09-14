@@ -15,11 +15,11 @@ pip install -r requirements.txt
 ```
 Then, login into scrap.tf and get your scraptf token 
 
-![get](path) 
+![get](https://raw.githubusercontent.com/nonepork/Raffle-joiner/main/readme/get%20token.png) 
 
 Put it in config.json in the root folder
 
-![json](path) 
+![json](https://raw.githubusercontent.com/nonepork/Raffle-joiner/main/readme/insert%20token.png) 
 
 Last, run main.py (headless is optional)
 
