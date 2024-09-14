@@ -1,4 +1,8 @@
+<div align="center">
+
 # Raffle joiner
+
+</div>
 
 ## Disclaimer
 
