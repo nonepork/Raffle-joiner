@@ -40,14 +40,11 @@ def run():
         # Login to steam
         with open("config.json") as jsonFile:
             data = json.load(jsonFile)
-            modified_cc = data["cf_clearance"]
             modified_stf = data["scraptf"]
-        if modified_cc == "" or modified_stf == "":
+        if modified_stf == "":
             logger.error("Config.json is empty!")
             sys.exit(1)
-        original_cc = sb.get_cookie("cf_clearance")
         original_stf = sb.get_cookie("scraptf")
-        modify_cookie(sb, original_cc, modified_cc)
         modify_cookie(sb, original_stf, modified_stf)
         sb.refresh()
 
