@@ -6,7 +6,7 @@ I'm not responsible for any damage or loss when using this script.
 
 ## How to use?
 
-First, install required libraries  
+First, download this repo and install required libraries  
 
 ```bash
 pip install -r requirements.txt
