@@ -3,6 +3,7 @@
         <tbody>
             <td align="center">
                 <h1>Raffle joiner</h1>
+                <img width="2000" height="0">
             </td>
         </tbody>
     </table>
