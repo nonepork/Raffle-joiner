@@ -2,6 +2,8 @@
 
 # Raffle joiner
 
+![preview](https://raw.githubusercontent.com/nonepork/Raffle-joiner/main/readme/preview.png) 
+
 </div>
 
 ## Disclaimer
